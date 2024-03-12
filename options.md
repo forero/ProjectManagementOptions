@@ -9,4 +9,8 @@ A subset:
 
 For the Document Management System
 
+Long list of options
+* https://zapier.com/blog/best-document-management-software/
+
+A subset:
 * Solr https://en.wikipedia.org/wiki/Apache_Solr
