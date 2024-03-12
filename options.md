@@ -3,6 +3,7 @@ For a long list of options
 
 A subset:
 * Confluence by Atlassian https://www.atlassian.com/software/confluence
+* Open Project https://www.openproject.org/project-management-software-alternatives/best-trac-alternative/
 * GitLab https://docs.gitlab.com/ee/user/project/working_with_projects.html https://help.uis.cam.ac.uk/service/collaboration/gitlab/gitlab-guidance-for-project-managers
 * Redmine https://www.redmine.org/
 
