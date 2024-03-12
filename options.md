@@ -13,4 +13,5 @@ Long list of options
 * https://zapier.com/blog/best-document-management-software/
 
 A subset:
+* DocDB https://docdb-v.sourceforge.net/
 * Solr https://en.wikipedia.org/wiki/Apache_Solr
