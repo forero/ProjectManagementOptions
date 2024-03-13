@@ -1,5 +1,7 @@
 For a long list of options
 * https://en.wikipedia.org/wiki/Comparison_of_project_management_software
+* 130 options in total. Keeping only those that are non-propietary: 32 options. Keeping web based: 27 options. Keeping hosted on premise 21 options. Keeping SaaS 17 option.
+* Keeping those written in Python/Ruby/Ruby on Rails.
 
 A subset:
 * Confluence by Atlassian https://www.atlassian.com/software/confluence
